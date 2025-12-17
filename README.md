@@ -28,7 +28,6 @@
 
 <p align="center">
   📱 <a href="https://t.me/nsf_tn"><strong>Telegram</strong></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🐙 <a href="https://github.com/safnb"><strong>GitHub</strong></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   💙 <a href="https://vk.com/nsf_tn"><strong>VK</strong></a>
 </p>
 
